@@ -9,7 +9,6 @@ import Year10 from '../views/Year10.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.BASE_URL),
-  base: '/mctech4/',
   routes: [
     {
       path: '/',
